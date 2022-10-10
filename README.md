@@ -8,7 +8,7 @@
 - `Browser History`🟡
 - `Get All Browser's Passwords` 🟡
 
-🟢: Work  | 🟡 = Soon
+🟢= Work  / 🟡 = Soon
 # Usage : 
 
 `1: Download Discord`
