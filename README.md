@@ -1,7 +1,7 @@
 <center><h1>BrowserGrabber</h1></center>
 
 <center><h2>Grab Browsers Passwords And Send It To A Discord Webhook!</h2></center> 
-# Features:
+<h3>Features:</h3>
 
 - `Get All Chrome Passwords`🟢
 - `IP`🟡
