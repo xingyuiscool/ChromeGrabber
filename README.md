@@ -5,6 +5,7 @@
 
 - `Get All Chrome Passwords`🟢
 - `IP`🟡
+- `Computer Infos` 🟡
 - `Browser History`🟡
 - `Get All Browser's Passwords` 🟡
 
