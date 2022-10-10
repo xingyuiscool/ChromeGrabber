@@ -1,4 +1,3 @@
-# BrowserGrabber
 <center><h1>BrowserGrabber</h1></center>
 
 <center><h2>Grab Browsers Passwords And Send It To A Discord Webhook!</h2></center>
