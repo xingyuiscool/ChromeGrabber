@@ -8,6 +8,7 @@
 - `Computer Infos` 🟡
 - `Browser History`🟡
 - `Get All Browser's Passwords` 🟡
+- `Get Browsers Credit Cards` 🟡
 
 🟢= Work  / 🟡 = Soon
 # Usage : 
